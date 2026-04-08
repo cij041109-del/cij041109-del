@@ -6,7 +6,7 @@ Spring을 중심으로 백엔드 개발 역량을 키우고 있습니다.
 ---
 
 ## 🧠 Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlswns0091@naver.com)]([https://solved.ac/profile/dlswns0091])
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디)
 
 ---
 
