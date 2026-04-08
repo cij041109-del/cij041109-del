@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👋 Backend Developer 🚀
 
 명지대학교 컴퓨터공학과  
@@ -6,13 +8,22 @@
 ---
 
 ## 🧠 Algorithm
+<div align="center">
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlswns0091)](https://solved.ac/dlswns0091)
+
+</div>
 
 ---
 
 ## 🛠 Tech Stack
+<div align="center">
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+</div>
 ---
 
 ## 📚 Activities
