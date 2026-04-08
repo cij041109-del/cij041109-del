@@ -10,7 +10,7 @@ Spring을 중심으로 백엔드 개발 역량을 키우고 있습니다.
 
 ---
 
-## 💻 Projects
+## 📚 Activities
 - MCC (Java 기초 및 알고리즘 학습)
 - LIKELION (Spring 기반 백엔드 개발 학습)
 
